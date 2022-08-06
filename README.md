@@ -1,6 +1,6 @@
 ### Welcome to my Github profile!
 
-My name is Douglas Gonçalves Sales, nice to meet you. I'm graduated at Sistemas de Informação in Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM) in Diamantina/MG, Brazil. I love to learn new things and am currently working as a FullStack Web Developer.   
+My name is Douglas Gonçalves Sales, nice to meet you. I'm graduated at Sistemas de Informação in the year of 2022 at Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM) in Diamantina/MG, Brazil. I love to learn new things and am currently working as a FullStack Web Developer.   
 
 ### Interests:
 - 🔭 Web/Mobile Development.
